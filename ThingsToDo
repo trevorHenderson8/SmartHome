@@ -1,0 +1,13 @@
+
+
+Things the program should do:
+  Lock/Unlock Doors, Windows. 
+  Open/Close garage door. 
+  Turn on/Turn off different electronic devices(music, TVs, etc.)
+  Alarm/Disarm security system. 
+
+When you use the program: 
+  1. At start it should propt you the password
+      This password should be able to identify the person who is using the system. 
+  2. It should set a time-stamp of when the program is used. 
+  3. It should say where the program was used from. 
