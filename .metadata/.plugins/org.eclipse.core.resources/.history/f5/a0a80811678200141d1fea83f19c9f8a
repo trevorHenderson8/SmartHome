@@ -1,0 +1,17 @@
+package api;
+
+/**
+ * 
+ * @author twohyjr
+ *
+ */
+
+/**
+ * 
+ * Interface for creating users
+ *
+ */
+public interface IUser {
+
+	
+}

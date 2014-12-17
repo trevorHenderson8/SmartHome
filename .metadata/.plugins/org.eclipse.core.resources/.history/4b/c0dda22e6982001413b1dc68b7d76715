@@ -1,0 +1,16 @@
+package api;
+
+/**
+ * 
+ * An IUser is a collection of users, passwords, and information
+ *
+ */
+public interface IUser 
+{
+	
+	public String password(String name);
+	
+	
+	
+	
+}
